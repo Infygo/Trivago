@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="55978" started-at="2021-03-02T23:21:55Z" finished-at="2021-03-02T23:22:51Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrun.TestRunner@51081592]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Surefire test" duration-ms="55978" started-at="2021-03-02T23:21:55Z" finished-at="2021-03-02T23:22:51Z">
+      <class name="testrun.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testrun.TestRunner@51081592]" name="setUpClass" is-config="true" duration-ms="396" started-at="2021-03-02T23:21:55Z" finished-at="2021-03-02T23:21:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrun.TestRunner@51081592]" name="runScenario" duration-ms="13602" started-at="2021-03-02T23:21:55Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-03-02T23:22:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["E2E process of Viewing deals in the discover tab of Trivago site"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Discover tab of Trivago site]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrun.TestRunner@51081592]" name="runScenario" duration-ms="13897" started-at="2021-03-02T23:22:09Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-03-02T23:22:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["E2E process of Viewing deals in the discover tab of Trivago site"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Discover tab of Trivago site]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrun.TestRunner@51081592]" name="runScenario" duration-ms="14511" started-at="2021-03-02T23:22:23Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-03-02T23:22:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["E2E process of Viewing deals in the discover tab of Trivago site"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Discover tab of Trivago site]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrun.TestRunner@51081592]" name="runScenario" duration-ms="13540" started-at="2021-03-02T23:22:37Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-03-02T23:22:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["E2E process of Viewing deals in the discover tab of Trivago site"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Discover tab of Trivago site]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testrun.TestRunner@51081592]" name="tearDownClass" is-config="true" duration-ms="11" started-at="2021-03-02T23:22:51Z" finished-at="2021-03-02T23:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testrun.TestRunner -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
